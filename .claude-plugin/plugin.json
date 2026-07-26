@@ -1,0 +1,13 @@
+{
+  "name": "agent-os",
+  "description": "Earned autonomy for coding agents: an append-only ledger, three trust tiers, and an /inspect skill that grades work the builder didn't do.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Braxton Hughes",
+    "email": "Braxtonaodha@proton.me"
+  },
+  "homepage": "https://github.com/braxhughes/agent-os-template",
+  "repository": "https://github.com/braxhughes/agent-os-template",
+  "license": "MIT",
+  "keywords": ["autonomy", "ledger", "review", "inspector", "grading"]
+}

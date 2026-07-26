@@ -1,0 +1,15 @@
+{
+  "name": "agent-os",
+  "description": "Earned autonomy for coding agents — the inspector grades, the ledger remembers.",
+  "owner": {
+    "name": "Braxton Hughes",
+    "url": "https://github.com/braxhughes"
+  },
+  "plugins": [
+    {
+      "name": "agent-os",
+      "source": "./",
+      "description": "The /inspect grading skill plus the ledger/tiers template it writes into."
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 # agent-os-template
 
+![An autonomy ledger showing four graded agent jobs: one pass, one partial, one fail, and one pass with a guardrail breach](docs/preview.svg)
+
 **Earned autonomy for coding agents, in four markdown files.** No framework, no daemon, no
 dependencies. The point isn't automation — it's that *the decision to trust an agent becomes a
 recorded one instead of a mood.*

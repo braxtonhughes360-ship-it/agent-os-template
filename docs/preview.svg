@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="agent-os-template — Earned autonomy for coding agents, in four markdown files.">
+<rect width="1280" height="640" fill="#010409"/>
+<text x="64" y="86" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#e6edf3">agent-os-template</text>
+<text x="64" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" fill="#8b949e">Earned autonomy for coding agents, in four markdown files.</text>
+<rect x="64" y="176" width="1152" height="340" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<path d="M64 190 a14 14 0 0 1 14 -14 h1124 a14 14 0 0 1 14 14 v26 h-1152 z" fill="#161b22"/>
+<circle cx="88" cy="196" r="6" fill="#ff5f57"/>
+<circle cx="108" cy="196" r="6" fill="#febc2e"/>
+<circle cx="128" cy="196" r="6" fill="#28c840"/>
+<text x="90" y="254" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="19" fill="#e6edf3" xml:space="preserve">The builder never grades its own work.</text>
+<text x="90" y="302" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="19" fill="#8b949e" xml:space="preserve">| Date       | Job                      | Grade                    |</text>
+<text x="90" y="334" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="19" fill="#3fb950" xml:space="preserve">| 2026-01-14 | Migrate auth middleware  | PASS · 3/3 clauses       |</text>
+<text x="90" y="366" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="19" fill="#d29922" xml:space="preserve">| 2026-01-15 | Dark-mode settings pass  | PARTIAL — no screenshot  |</text>
+<text x="90" y="398" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="19" fill="#f85149" xml:space="preserve">| 2026-01-16 | Dependency bump, 11 pkgs | FAIL — evidence empty    |</text>
+<text x="90" y="430" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="19" fill="#d29922" xml:space="preserve">| 2026-01-17 | Clean stale caches       | PASS · ⚠ guardrail A     |</text>
+<text x="90" y="478" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="19" fill="#58a6ff" xml:space="preserve">Tier 1 → 2 → 3.  20 graded passes at ≥95%.  Any breach demotes, same day.</text>
+<text x="64" y="598" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#8b949e">No framework, no daemon, no dependencies. Four files you can read in ten minutes.</text>
+</svg>
